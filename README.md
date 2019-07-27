@@ -8,5 +8,5 @@ Inspired by a loony mix of [_Monk_](https://www.imdb.com/title/tt0312172/), [Pix
 * isometric games (_Into the Breach_, _Shadowrun Hong Kong_)
 * low-poly art (partially _The Witness_) and especially [the art of Filip Ganski](https://filipganski.artstation.com/)
 * _Zootopia_ for its lovely build environment
-* YouTube channel (_ThinMatrix_)[https://www.youtube.com/user/ThinMatrix/videos]
-* SketchFab user (_EdwinRC_)[https://sketchfab.com/Edwin3D]
+* YouTube channel [_ThinMatrix_](https://www.youtube.com/user/ThinMatrix/videos)
+* SketchFab user [_EdwinRC_](https://sketchfab.com/Edwin3D)
