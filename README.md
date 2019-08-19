@@ -1,4 +1,4 @@
-# JUNGLE
+![header](header.jpg "header") 
 
 Inspired by a loony mix of [_Monk_](https://www.imdb.com/title/tt0312172/), [Pixar's _Cars_](https://www.pixar.com/feature-films/cars) and [_The Witness_](http://the-witness.net/news/) among others, Jungle is a game about a car and its struggles with OCD (and the struggles of the car's owner with the disorder of his beloved vehicle)
 
