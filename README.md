@@ -10,3 +10,5 @@ Inspired by a loony mix of [_Monk_](https://www.imdb.com/title/tt0312172/), [Pix
 * _Zootopia_ for its lovely build environment
 * YouTube channel [_ThinMatrix_](https://www.youtube.com/user/ThinMatrix/videos)
 * SketchFab user [_EdwinRC_](https://sketchfab.com/Edwin3D)
+
+[Quote in header image from "Jungle" by Tash Sultana](https://www.youtube.com/watch?v=Vn8phH0k5HI)
